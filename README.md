@@ -1,6 +1,10 @@
 # 3d_memo
  notes about 3d printing
 
+## Name of the printer
+
+Anet A8
+
 
 ## What is needed
 
@@ -10,6 +14,12 @@
 4. 'Slicer' software e.g. cura
 
 ## Firmware for 3 d printer
+
+### Original Firmware
+
+* Original firmware website
+
+### Alternative Firmwares
 
 * Instructions at https://www.youtube.com/watch?v=5xeo9G3kXEQ
 * marlin firmware see forked repo: https://github.com/vladdsm/anet-board
