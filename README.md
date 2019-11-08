@@ -17,7 +17,9 @@ Anet A8
 
 ### Original Firmware
 
-* Original firmware website
+* Original firmware website http://www.anet3d.com
+
+
 
 ### Alternative Firmwares
 
